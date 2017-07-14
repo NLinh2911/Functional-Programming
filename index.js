@@ -92,7 +92,7 @@ newObj2 = data.reduce((prev, next, index) => {
   console.log("---------------");
   return prev;
 }, {})
-//console.log('With reduce: ', newObj2);
+console.log('With reduce: ', newObj2);
 
 //=======CHAINING METHODS====================
 // Những hàm này có thể viết theo kiểu chaining
